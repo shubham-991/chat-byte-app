@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+frontend/node_modules/
+
+# Environment files
+.env
+
+# Lock files
+package-lock.json
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Linux system files
+.*
+!/.gitignore
+
+# Log files
+*.log
+
+# Optional: build directories
+# dist/
+# build/
